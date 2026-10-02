@@ -391,3 +391,16 @@ B.Tech CSE — Cyber Security
 
 This project is intended for educational and portfolio purposes.
 
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](screenshots/01-main-menu.png)
+
+### Student Details
+![Student Details](screenshots/02-student-details.png)
+
+### Subject-wise Analysis
+![Subject-wise Analysis](screenshots/03-subject-analysis.png)
+
+### Class Statistics
+![Class Statistics](screenshots/04-class-statistics.png)
